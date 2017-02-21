@@ -1,13 +1,15 @@
 # CommonUtils
 # 工程build.gradle
-allprojects {
+### 
+	allprojects {
 		repositories {
 			...
 			maven { url 'https://jitpack.io' }
 		}
 	}
-  
+
 # 项目build.gradle
-dependencies {
+###
+	dependencies {
 	        compile 'com.github.shoushuai:CommonUtils:1.0.0'
 	}
