@@ -21,4 +21,6 @@ In order to use the library, there are 2 different options:
 
 ## Thank
 
+https://github.com/qyxxjd/MultipleStatusView
+
 https://github.com/chenpengfei88/StatusLayout
