@@ -18,3 +18,7 @@ In order to use the library, there are 2 different options:
 	        compile 'com.github.shoushuai:CommonUtils:1.0.1'
 	}
 ```
+
+## Thank
+
+https://github.com/chenpengfei88/StatusLayout
