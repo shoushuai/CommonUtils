@@ -15,6 +15,10 @@ In order to use the library, there are 2 different options:
 *	2.Add this to your app build.gradle:
 ```Java
 	dependencies {
-	        compile 'com.github.shoushuai:CommonUtils:1.0.0'
+	        compile 'com.github.shoushuai:CommonUtils:1.0.1'
 	}
 ```
+
+## Thank
+
+https://github.com/chenpengfei88/StatusLayout
